@@ -1,1 +1,5 @@
 Test/shrimp_biomass_cleaned(1).csv
+KNN
+LinearRegression
+Logistic regression
+RandomForestRegressor
